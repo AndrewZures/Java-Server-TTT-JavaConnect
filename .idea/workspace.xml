@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" name="Default" comment="" />
+    <ignored path="test_server_stuff.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Test_Class.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109818924" ignored="false" />
+    <file path="/Dummy.txt" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377635438041" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377097459205" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/computer_ai.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377097425006" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/game_controller.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377098487210" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/two_dimensional_board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377098114652" ignored="false" />
+    <file path="/two_dimensional_board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377098036219" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/java_files/ComputerAI.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377099851678" ignored="false" />
+    <file path="/ComputerAI.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377099421136" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/Test_Class.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377103138929" ignored="false" />
+    <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/java_files/ThreeDimensionalBoard.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377101510190" ignored="false" />
+    <file path="/ThreeDimensionalBoard.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377101509560" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/server_and_sockets/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187701599" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/response/ResponseBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109124283" ignored="false" />
+    <file path="/ResponseBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187642251" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/.idea/workspace.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377135692499" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/server_and_sockets/RequestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="/RequestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187758427" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/Main.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="/Main.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117313844" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/response/ResponseBuilderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109135755" ignored="false" />
+    <file path="/ResponseBuilderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117433131" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/server_test/ServerTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118619374" ignored="false" />
+    <file path="/ServerTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109342065" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/responder_tests/DirectoryResponderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109574280" ignored="false" />
+    <file path="/DirectoryResponderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109567004" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/test.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377114469854" ignored="false" />
+    <file path="/test.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377115799240" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/project.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377289655218" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/interfaces.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377292516196" ignored="false" />
+    <file path="/Clojure REPL" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377292520275" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/OutputBuilderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/ArgumentParserTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/TestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/LoggerTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/RequestThreadTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/responder_tests/FormResponderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/request/Request.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/request/RequestBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/InputReaderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/InputReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117113080" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/request_test/RequestBuilderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/Main.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116789610" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/Logger.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/ArgumentParser.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/OutputBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/Build.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377119153631" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/META-INF/MANIFEST.MF" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116194594" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/META-INF/MANIFEST.MF" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116194594" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/InputReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/Logger.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/ArgumentParser.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/OutputBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116001708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/server_and_sockets/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/request/Request.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/request/RequestBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/server_and_sockets/RequestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
+    <file path="/InputReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117363913" ignored="false" />
+    <file path="/ServerSocketInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116455018" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/network/ServerSocketInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116932062" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/responder_tests/FileResponderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116932062" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/response_test/ResponseBuilderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116932062" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/response/responders/file404Responder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116932062" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/cleanserver/network/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116688382" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/InputReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118422955" ignored="false" />
+    <file path="/ArgumentParser.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117306051" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/ArgumentParser.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117306051" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/Main.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118435925" ignored="false" />
+    <file path="/OutputBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117323174" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/OutputBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118446216" ignored="false" />
+    <file path="/Logger.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117335741" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/Logger.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118428384" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/Response.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118396635" ignored="false" />
+    <file path="/Response.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117397204" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/ResponseBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118412731" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/ResponseBuilderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118419741" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/filereader/FileReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117501585" ignored="false" />
+    <file path="/FileReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117465378" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/filereader/FileReaderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117488690" ignored="false" />
+    <file path="/FileReaderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117481835" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/network/RequestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118268210" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/network/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118298461" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/network/ServerSocketInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118120127" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/network/SocketInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117626024" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/request/Request.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118313912" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/request/RequestBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118507708" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/DefaultInternalResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118334203" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/DirectoryResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118347356" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/file404Responder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118356932" ignored="false" />
+    <file path="/file404Responder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117944813" ignored="false" />
+    <file path="/DirectoryResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117846985" ignored="false" />
+    <file path="/Request.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117911444" ignored="false" />
+    <file path="/RequestBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377201887635" ignored="false" />
+    <file path="/DefaultInternalResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117931659" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/FileResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118367856" ignored="false" />
+    <file path="/FileResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117961133" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/FormResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118377727" ignored="false" />
+    <file path="/FormResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377117983733" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/ResponderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118386799" ignored="false" />
+    <file path="/ResponderInterface.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118002062" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/response/responders/TimerResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118463065" ignored="false" />
+    <file path="/TimerResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118022995" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/network/MyServerSocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118095553" ignored="false" />
+    <file path="/MyServerSocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118094498" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/src/com/cleanserver/network/MySocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118088640" ignored="false" />
+    <file path="/MySocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118087338" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/MockFileReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118600502" ignored="false" />
+    <file path="$PROJECT_DIR$/../java_server_for_ttt/test/server_test/MockServerSocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118665229" ignored="false" />
+    <file path="/MockServerSocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118663098" ignored="false" />
+    <file path="/Build.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377119145399" ignored="false" />
+    <file path="/interfaces.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377292476147" ignored="false" />
+    <file path="/project.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377121902404" ignored="false" />
+    <file path="/Test_Jruby.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377140413134" ignored="false" />
+    <file path="/test_ruby.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377138382244" ignored="false" />
+    <file path="/Driver.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377626089525" ignored="false" />
+    <file path="/ruby_script.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377532723604" ignored="false" />
+    <file path="/game.html" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377542766267" ignored="false" />
+    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/ResponseBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377188202350" ignored="false" />
+    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187702160" ignored="false" />
+    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/RequestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187759128" ignored="false" />
+    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/RequestThreadTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187859876" ignored="false" />
+    <file path="/RequestThreadTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187859209" ignored="false" />
+    <file path="/MoveResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377637126805" ignored="false" />
+    <file path="/RubyScriptRunner.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377195177761" ignored="false" />
+    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/request/RequestBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377202109506" ignored="false" />
+    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/InputReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377198751652" ignored="false" />
+    <file path="/GameResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377625477534" ignored="false" />
+    <file path="/RubyAdapter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377205715800" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/java_server/pom.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377270710544" ignored="false" />
+    <file path="/TTTFactory.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377533495856" ignored="false" />
+    <file path="/fragment.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377640008670" ignored="false" />
+    <file path="/Board.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377540211670" ignored="false" />
+    <file path="/jfactory.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377533535584" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/TestClass.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377291923292" ignored="false" />
+    <file path="/TestClass.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377291921880" ignored="false" />
+    <file path="/Player.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636028934" ignored="false" />
+    <file path="/board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377532417291" ignored="false" />
+    <file path="/introduction.html" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377620142708" ignored="false" />
+    <file path="/IntroResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377619623965" ignored="false" />
+    <file path="/NewGameResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377642192359" ignored="false" />
+    <file path="/Game.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377639682569" ignored="false" />
+    <file path="/MovePresenter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377626027816" ignored="false" />
+    <file path="/GamePresenter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377637705363" ignored="false" />
+    <file path="/human_player.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636018979" ignored="false" />
+    <file path="/computer_ai.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636379170" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test_server_stuff" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MoveResponder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntroResponder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="13" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Board.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="4" selection-start="352" selection-end="352" vertical-scroll-proportion="0.27121">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewGameResponder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GameResponders/NewGameResponder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="9" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Driver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#751#766#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/GameResponder.java" />
+        <option value="$PROJECT_DIR$/src/NewGameResponder.java" />
+        <option value="$PROJECT_DIR$/src/MovePresenter.java" />
+        <option value="$PROJECT_DIR$/src/MoveResponder.java" />
+        <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb" />
+        <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/human_player.rb" />
+        <option value="$PROJECT_DIR$/src/GamePresenter.java" />
+        <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/two_dimensional_board.rb" />
+        <option value="$PROJECT_DIR$/src/GameResponders/MoveResponder.java" />
+        <option value="$PROJECT_DIR$/src/Game.java" />
+        <option value="$PROJECT_DIR$/src/Driver.java" />
+        <option value="$PROJECT_DIR$/src/GameResponders/IntroResponder.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+        <option value="$PROJECT_DIR$/src/Player.java" />
+        <option value="$PROJECT_DIR$/src/TTTFactory.java" />
+        <option value="$PROJECT_DIR$/src/GameResponders/NewGameResponder.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
+    <option name="y" value="1" />
+    <option name="width" value="1920" />
+    <option name="height" value="1079" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="updated_java_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameResponders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="coverage" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../my_gems/tttazures/lib" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Driver">
+    <configuration default="false" name="Driver" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test_server_stuff" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="driver" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/../../tic_tac_toe/console_ttt/lib/ttt" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../tic_tac_toe/console_ttt/lib/ttt/driver.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs>
+        <env name="ANSICON" value="" />
+      </envs>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Driver" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.driver" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.Driver" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.driver" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" name="Default" comment="" />
+      <created>1377028883765</created>
+      <updated>1377028883765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="1" width="1920" height="1079" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12339743" sideWeight="0.7789364" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22106361" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="22" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/human_player.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/game_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/two_dimensional_board.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="36" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/board.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="139" selection-end="139" vertical-scroll-proportion="0.36231884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GamePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="36" selection-start="415" selection-end="415" vertical-scroll-proportion="0.35942492">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jfactory.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/introduction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.115384616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TTTFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.07672634">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameResponders/NewGameResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="9" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#751#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="352" selection-end="352" vertical-scroll-proportion="0.27121">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>test_server_v2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JRuby</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>actionmailer (v4.0.0, RVM: ruby-2.0.0-p247) [gem]</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>RVM: jruby-1.7.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test_server_stuff</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
