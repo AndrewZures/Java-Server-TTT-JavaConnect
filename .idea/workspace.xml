@@ -315,7 +315,7 @@
     <file path="/Player.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636028934" ignored="false" />
     <file path="/board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377532417291" ignored="false" />
     <file path="/introduction.html" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377620142708" ignored="false" />
-    <file path="/IntroResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377824850465" ignored="false" />
+    <file path="/IntroResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377828992844" ignored="false" />
     <file path="/NewGameResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377811055568" ignored="false" />
     <file path="/Game.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377639682569" ignored="false" />
     <file path="/MovePresenter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377626027816" ignored="false" />
@@ -385,30 +385,7 @@
     <favorites_list name="test_server_stuff" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MoveResponder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="8" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntroResponder.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="62" selection-start="371" selection-end="371" vertical-scroll-proportion="0.21791768">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -426,11 +403,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb" />
-        <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/human_player.rb" />
-        <option value="$PROJECT_DIR$/src/GamePresenter.java" />
-        <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/two_dimensional_board.rb" />
-        <option value="$PROJECT_DIR$/src/Game.java" />
         <option value="$PROJECT_DIR$/src/Board.java" />
         <option value="$PROJECT_DIR$/src/Player.java" />
         <option value="$PROJECT_DIR$/src/TTTFactory.java" />
@@ -442,14 +414,18 @@
         <option value="$PROJECT_DIR$/src/org/andrewzures/middleware/GamePresenter.java" />
         <option value="$PROJECT_DIR$/src/GameResponders/NewGameResponder.java" />
         <option value="$PROJECT_DIR$/src/GameResponders/IntroResponder.java" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/middleware/GameResponders/IntroResponder.java" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/ttt_middleware/Game.java" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/ttt_middleware/stringbuilders/GamePresenter.java" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/stringbuilders/GamePresenter.java" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/stringbuilders/GameStringBuilder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1688" />
-    <option name="y" value="97" />
-    <option name="width" value="1280" />
-    <option name="height" value="774" />
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -492,10 +468,6 @@
               <option name="myItemId" value="test_server_stuff" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -504,88 +476,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="middleware" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameResponders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -597,7 +487,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -621,10 +511,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/org/andrewzures/tttmiddleware" />
+      <recent name="$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/helpers" />
       <recent name="$PROJECT_DIR$/src/org/andrewzures/middleware" />
-      <recent name="$PROJECT_DIR$/.idea/libraries" />
-      <recent name="$PROJECT_DIR$/src/resources" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -633,7 +524,7 @@
   <component name="RunManager" selected="Application.Driver">
     <configuration default="false" name="Driver" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="org.andrewzures.middleware.Driver" />
+      <option name="MAIN_CLASS_NAME" value="org.andrewzures.tttmiddleware.Driver" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -920,12 +811,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1688" y="97" width="1280" height="774" extended-state="0" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -944,12 +836,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21672077" sideWeight="0.67431194" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32568806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17147435" sideWeight="0.778125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.221875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1019,16 +910,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/board.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="967" selection-end="967" vertical-scroll-proportion="0.2533784" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/jruby_complete_1_7_4.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2393617" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -1054,67 +935,83 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/introduction.html">
+    <entry file="file://$PROJECT_DIR$/res/introduction.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="3" selection-start="73" selection-end="73" vertical-scroll-proportion="0.16">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="32" selection-start="1601" selection-end="1601" vertical-scroll-proportion="-0.446281">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/GamePresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="50" selection-start="626" selection-end="626" vertical-scroll-proportion="0.02255639">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameResponders/NewGameResponder.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/gameresponders/NewGameResponder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="84" column="56" selection-start="2804" selection-end="2804" vertical-scroll-proportion="1.5037594">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="0.09774436">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/Board.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/interfaces/Board.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="0.30075186">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="19" selection-start="3638" selection-end="3638" vertical-scroll-proportion="0.3325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="85" selection-start="650" selection-end="650" vertical-scroll-proportion="0.33379695">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/helpers/PostParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="62" selection-start="371" selection-end="371" vertical-scroll-proportion="0.21791768">
+        <state line="6" column="13" selection-start="133" selection-end="133" vertical-scroll-proportion="0.08344924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="20" selection-start="1677" selection-end="1677" vertical-scroll-proportion="0.98052853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/stringbuilders/GameStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="35" selection-start="666" selection-end="666" vertical-scroll-proportion="0.37552157">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/gameresponders/IntroResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="290" selection-end="290" vertical-scroll-proportion="0.10431154">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/tttmiddleware/gameresponders/MoveResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="488" selection-end="488" vertical-scroll-proportion="0.27121">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1176,7 +1073,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java_server</last-edited>
+          <last-edited>test_server_stuff</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
