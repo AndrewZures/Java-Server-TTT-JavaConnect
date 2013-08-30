@@ -1,3 +1,11 @@
+package GameResponders;
+
+import org.andrewzures.java_server.Request;
+import org.andrewzures.java_server.ResponderInterface;
+import org.andrewzures.java_server.Response;
+import org.andrewzures.middleware.Game;
+import org.andrewzures.middleware.GamePresenter;
+import org.andrewzures.middleware.PostParser;
 
 import java.util.HashMap;
 

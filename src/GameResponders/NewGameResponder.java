@@ -1,3 +1,12 @@
+package GameResponders;
+
+import org.andrewzures.java_server.Request;
+import org.andrewzures.java_server.ResponderInterface;
+import org.andrewzures.java_server.Response;
+import org.andrewzures.middleware.Game;
+import org.andrewzures.middleware.GamePresenter;
+import org.andrewzures.middleware.PostParser;
+import org.andrewzures.middleware.TTTFactory;
 
 import java.util.HashMap;
 
@@ -73,9 +82,7 @@ public class NewGameResponder implements ResponderInterface {
 
     public void printGame(Game game) {
         System.out.println("id = " + game.getID());
-        //System.out.println("player1 = " + game.getPlayer1().getType());
-        //System.out.println("player2 = " + game.getPlayer2().getType());
-        System.out.println("gametype >>" + gameType + ">>");
+        System.out.println("gametype >>" + gameType + "<<");
         System.out.println("board = " + game.getBoard());
         System.out.println("game creating failed");
     }

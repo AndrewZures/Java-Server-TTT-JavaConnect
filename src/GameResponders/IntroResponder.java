@@ -1,12 +1,19 @@
+package GameResponders;
 
+import org.andrewzures.java_server.Request;
+import org.andrewzures.java_server.ResponderInterface;
+import org.andrewzures.java_server.Response;
 import java.io.*;
 
 public class IntroResponder implements ResponderInterface {
     @Override
     public Response respond(Request request) {
-        InputStream stream = this.getClass().getResourceAsStream("introduction.html");
+        InputStream stream = this.getClass().getClassLoader().getResourceAsStream("introduction.html");
+        if(stream == null) {
+            System.out.println("cant find file");
+            return null;
+        }
         String stringResult = this.convertStreamToString(stream);
-
         Response response = new Response();
         response.inputStream = new ByteArrayInputStream(stringResult.getBytes());
         response = updateSuccessfulResponse(response);
@@ -26,7 +33,7 @@ public class IntroResponder implements ResponderInterface {
 
     public String convertStreamToString(InputStream stream) {
         int bufferSize = 4000;
-        Reader reader = new BufferedReader(new InputStreamReader(stream));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(stream));
         StringBuffer content = new StringBuffer();
         char[] buffer = new char[bufferSize];
         int n;

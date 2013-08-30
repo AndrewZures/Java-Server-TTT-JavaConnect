@@ -1,4 +1,4 @@
-java_import 'TTTFactory'
+java_import 'org.andrewzures.middleware.TTTFactory'
 require 'factory'
 
 class JFactory < Factory

@@ -1,11 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" name="Default" comment="" />
+    <list default="true" id="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/libraries/Leiningen__org_clojure_clojure_1_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/ResponderInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/java_server.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/welcome.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ArgumentParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ArgumentParserTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ClientSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/DefaultInternalResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/DirectoryResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/DirectoryResponderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FileReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FileReaderInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FileReaderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FileResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FileResponderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FormResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/FormResponderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/InputReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/InputReaderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/LoggerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MainTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MockFileReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MockInputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MockOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MockServerSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MockSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MyServerSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MyServerSocketTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MySocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/MySocketTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/OutputBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/OutputBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/Request.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/RequestBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/RequestBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/RequestThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/RequestThreadTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ResponderInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/Response.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ResponseBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ResponseBuilderInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ResponseBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/Server.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ServerSocketInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/ServerTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/SocketInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/TestClientThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/TestThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/TimerResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/Timer_ResponseBuilderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/file404Responder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/formResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/timerResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/classes/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/build/jar/java_server.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/file.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/ArgumentParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/DefaultInternalResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/DirectoryResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/FileReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/FileReaderInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/FileResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/FormResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/InputReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/MyServerSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/MySocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/OutputBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/Request.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/RequestBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/RequestThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/ResponderInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/Response.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/ResponseBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/ResponseBuilderInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/Server.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/ServerSocketInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/SocketInterface.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/TimerResponder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/file404Responder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/formResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/resources/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/resources/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/resources/formResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/resources/timerResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/resources/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/timerResponse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/production/java_server_for_ttt/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/resources/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/ResponderInterface.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/ArgumentParser.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/ArgumentParser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/InputReader.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/InputReader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/Logger.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/Logger.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/Main.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/OutputBuilder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/OutputBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/file_reader/FileReader.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/FileReader.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/file_reader/FileReaderInterface.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/FileReaderInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/request/Request.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/Request.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/request/RequestBuilder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/RequestBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/resources/404.html" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/resources/form.html" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/form.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/resources/formResponse.html" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/formResponse.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/resources/timerResponse.html" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/timerResponse.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/Response.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/Response.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/ResponseBuilder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/ResponseBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/ResponseBuilderInterface.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/ResponseBuilderInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/DefaultInternalResponder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/DefaultInternalResponder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/DirectoryResponder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/DirectoryResponder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/FileResponder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/FileResponder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/FormResponder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/FormResponder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/TimerResponder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/TimerResponder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/responders/file404Responder.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/file404Responder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/MyServerSocket.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/MyServerSocket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/MySocket.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/MySocket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/RequestThread.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/RequestThread.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/Server.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/Server.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/ServerSocketInterface.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/ServerSocketInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/SocketInterface.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/org/andrewzures/java_server/SocketInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ArgumentParserTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ArgumentParserTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ClientSocket.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ClientSocket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/DirectoryResponderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/DirectoryResponderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/FileReaderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/FileReaderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/FileResponderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/FileResponderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/FormResponderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/FormResponderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/InputReaderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/InputReaderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/LoggerTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/LoggerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MainTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MainTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MockFileReader.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MockFileReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MockServerSocket.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MockServerSocket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MockSocket.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MockSocket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MyServerSocketTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MyServerSocketTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MySocketTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/MySocketTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/OutputBuilderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/OutputBuilderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/RequestBuilderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/RequestBuilderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/RequestThreadTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/RequestThreadTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ResponseBuilderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ResponseBuilderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ServerTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/ServerTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/TestThread.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/TestThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/Timer_ResponseBuilderTest.class" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/test/java_server_for_ttt/Timer_ResponseBuilderTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/artifacts/updated_java_server/updated_java_server.jar" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/out/artifacts/updated_java_server/updated_java_server.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/ArgumentParserTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/ArgumentParserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/Build.xml" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/Build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/socket_test/ClientSocket.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/socket_test/ClientSocket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/DirectoryResponderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/DirectoryResponderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/FileReaderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/FileReaderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/FileResponderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/FileResponderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/FormResponderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/FormResponderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/InputReaderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/InputReaderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/LoggerTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/LoggerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/MainTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/MainTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/MockFileReader.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/MockFileReader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/server_test/MockServerSocket.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/server_test/MockServerSocket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/socket_test/MockSocket.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/socket_test/MockSocket.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/server_test/MyServerSocketTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/server_test/MyServerSocketTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/socket_test/MySocketTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/socket_test/MySocketTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/OutputBuilderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/OutputBuilderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/README.md" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/request_test/RequestBuilderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/request_test/RequestBuilderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/RequestThreadTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/RequestThreadTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/response_test/ResponseBuilderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/response_test/ResponseBuilderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/server_test/ServerTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/server_test/ServerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/TestThread.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/TestThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/Timer_ResponseBuilderTest.java" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/responder_tests/Timer_ResponseBuilderTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/misc.xml" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/modules.xml" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/.idea/workspace.xml" />
+    </list>
     <ignored path="test_server_stuff.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Test_Class.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109818924" ignored="false" />
-    <file path="/Dummy.txt" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377635438041" ignored="false" />
+    <file path="/Dummy.txt" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377828207219" ignored="false" />
     <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377097459205" ignored="false" />
     <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/computer_ai.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377097425006" ignored="false" />
     <file path="$PROJECT_DIR$/../../tic_tac_toe/jruby_ttt/jruby_ttt_sanitized/ruby_classes/game_controller.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377098487210" ignored="false" />
@@ -33,9 +211,9 @@
     <file path="/DirectoryResponderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377109567004" ignored="false" />
     <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/test.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377114469854" ignored="false" />
     <file path="/test.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377115799240" ignored="false" />
-    <file path="$PROJECT_DIR$/../../clojure_server_ttt/project.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377289655218" ignored="false" />
-    <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/interfaces.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377292516196" ignored="false" />
-    <file path="/Clojure REPL" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377292520275" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/project.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377706459835" ignored="false" />
+    <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/interfaces.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377707439964" ignored="false" />
+    <file path="/Clojure REPL" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377705790178" ignored="false" />
     <file path="$PROJECT_DIR$/../java_server_for_ttt/test/OutputBuilderTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
     <file path="$PROJECT_DIR$/../java_server_for_ttt/test/ArgumentParserTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
     <file path="$PROJECT_DIR$/../java_server_for_ttt/test/TestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377116193833" ignored="false" />
@@ -115,27 +293,21 @@
     <file path="$PROJECT_DIR$/../java_server_for_ttt/test/server_test/MockServerSocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118665229" ignored="false" />
     <file path="/MockServerSocket.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377118663098" ignored="false" />
     <file path="/Build.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377119145399" ignored="false" />
-    <file path="/interfaces.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377292476147" ignored="false" />
-    <file path="/project.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377121902404" ignored="false" />
+    <file path="/interfaces.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377707196620" ignored="false" />
+    <file path="/project.clj" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377705507392" ignored="false" />
     <file path="/Test_Jruby.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377140413134" ignored="false" />
     <file path="/test_ruby.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377138382244" ignored="false" />
-    <file path="/Driver.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377626089525" ignored="false" />
+    <file path="/Driver.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377821151481" ignored="false" />
     <file path="/ruby_script.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377532723604" ignored="false" />
     <file path="/game.html" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377542766267" ignored="false" />
-    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/response/ResponseBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377188202350" ignored="false" />
-    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/Server.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187702160" ignored="false" />
-    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/server_and_sockets/RequestThread.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187759128" ignored="false" />
-    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/test/RequestThreadTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187859876" ignored="false" />
     <file path="/RequestThreadTest.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377187859209" ignored="false" />
     <file path="/MoveResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377637126805" ignored="false" />
     <file path="/RubyScriptRunner.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377195177761" ignored="false" />
-    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/request/RequestBuilder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377202109506" ignored="false" />
-    <file path="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt/src/InputReader.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377198751652" ignored="false" />
     <file path="/GameResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377625477534" ignored="false" />
     <file path="/RubyAdapter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377205715800" ignored="false" />
     <file path="$PROJECT_DIR$/../../clojure_server_ttt/java_server/pom.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377270710544" ignored="false" />
     <file path="/TTTFactory.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377533495856" ignored="false" />
-    <file path="/fragment.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377640008670" ignored="false" />
+    <file path="/fragment.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377815809089" ignored="false" />
     <file path="/Board.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377540211670" ignored="false" />
     <file path="/jfactory.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377533535584" ignored="false" />
     <file path="$PROJECT_DIR$/../../clojure_server_ttt/src/clojure_server_ttt/TestClass.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377291923292" ignored="false" />
@@ -143,13 +315,16 @@
     <file path="/Player.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636028934" ignored="false" />
     <file path="/board.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377532417291" ignored="false" />
     <file path="/introduction.html" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377620142708" ignored="false" />
-    <file path="/IntroResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377619623965" ignored="false" />
-    <file path="/NewGameResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377642192359" ignored="false" />
+    <file path="/IntroResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377824850465" ignored="false" />
+    <file path="/NewGameResponder.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377811055568" ignored="false" />
     <file path="/Game.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377639682569" ignored="false" />
     <file path="/MovePresenter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377626027816" ignored="false" />
     <file path="/GamePresenter.java" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377637705363" ignored="false" />
     <file path="/human_player.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636018979" ignored="false" />
     <file path="/computer_ai.rb" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377636379170" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/vcs.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377825354892" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377827923143" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="fd787c74-0c88-4c2b-b1a3-82cb4d26ab6f" time="1377825354892" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +339,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
@@ -201,7 +377,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -214,64 +389,20 @@
       <file leaf-file-name="MoveResponder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntroResponder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="13" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Board.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Player.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="352" selection-end="352" vertical-scroll-proportion="0.27121">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewGameResponder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GameResponders/NewGameResponder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="9" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Driver.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
+            <state line="13" column="8" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#751#766#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntroResponder.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="62" selection-start="371" selection-end="371" vertical-scroll-proportion="0.21791768">
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -284,33 +415,41 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../clean_server_with_game_additions/java_server_for_ttt" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/GameResponder.java" />
-        <option value="$PROJECT_DIR$/src/NewGameResponder.java" />
-        <option value="$PROJECT_DIR$/src/MovePresenter.java" />
-        <option value="$PROJECT_DIR$/src/MoveResponder.java" />
         <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb" />
         <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/human_player.rb" />
         <option value="$PROJECT_DIR$/src/GamePresenter.java" />
         <option value="$PROJECT_DIR$/../../my_gems/tttazures/lib/two_dimensional_board.rb" />
-        <option value="$PROJECT_DIR$/src/GameResponders/MoveResponder.java" />
         <option value="$PROJECT_DIR$/src/Game.java" />
-        <option value="$PROJECT_DIR$/src/Driver.java" />
-        <option value="$PROJECT_DIR$/src/GameResponders/IntroResponder.java" />
         <option value="$PROJECT_DIR$/src/Board.java" />
         <option value="$PROJECT_DIR$/src/Player.java" />
         <option value="$PROJECT_DIR$/src/TTTFactory.java" />
+        <option value="$PROJECT_DIR$/src/Driver.java" />
+        <option value="$PROJECT_DIR$/src/PostParser.java" />
+        <option value="$PROJECT_DIR$/src/GameResponders/MoveResponder.java" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/middleware/Driver.java" />
+        <option value="$PROJECT_DIR$/src/introduction.html" />
+        <option value="$PROJECT_DIR$/src/org/andrewzures/middleware/GamePresenter.java" />
         <option value="$PROJECT_DIR$/src/GameResponders/NewGameResponder.java" />
+        <option value="$PROJECT_DIR$/src/GameResponders/IntroResponder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
-    <option name="y" value="1" />
-    <option name="width" value="1920" />
-    <option name="height" value="1079" />
+    <option name="x" value="-1688" />
+    <option name="y" value="97" />
+    <option name="width" value="1280" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -321,11 +460,17 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:project:ruby_ttt)" />
+      <problem id="unused-library(library:project:Leiningen: org.clojure:clojure:1.5.1)" />
+    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -340,7 +485,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -351,34 +495,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="updated_java_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_server_stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -402,6 +518,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="middleware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_server_stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -433,25 +585,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="coverage" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../my_gems/tttazures/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/java_server.jar!/" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -468,6 +621,9 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/org/andrewzures/middleware" />
+      <recent name="$PROJECT_DIR$/.idea/libraries" />
       <recent name="$PROJECT_DIR$/src/resources" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -477,7 +633,7 @@
   <component name="RunManager" selected="Application.Driver">
     <configuration default="false" name="Driver" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Driver" />
+      <option name="MAIN_CLASS_NAME" value="org.andrewzures.middleware.Driver" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -764,13 +920,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="1" width="1920" height="1079" extended-state="0" />
+    <frame x="-1688" y="97" width="1280" height="774" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -789,11 +944,13 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12339743" sideWeight="0.7789364" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22106361" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21672077" sideWeight="0.67431194" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32568806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -829,7 +986,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -862,120 +1019,105 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb">
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/board.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="22" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="4" selection-start="967" selection-end="967" vertical-scroll-proportion="0.2533784" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/human_player.rb">
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/jruby_complete_1_7_4.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2393617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/computer_ai.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/game_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="28" selection-start="303" selection-end="303" vertical-scroll-proportion="0.27925533" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/two_dimensional_board.rb">
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/three_dimensional_board.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="36" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.2631579" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/board.rb">
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/human_player.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="139" selection-end="139" vertical-scroll-proportion="0.36231884">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GamePresenter.java">
+    <entry file="file://$PROJECT_DIR$/../../my_gems/tttazures/lib/factory.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="415" selection-end="415" vertical-scroll-proportion="0.35942492">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jfactory.rb">
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/introduction.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.115384616">
+        <state line="4" column="3" selection-start="73" selection-end="73" vertical-scroll-proportion="0.16">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TTTFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.07672634">
+        <state line="50" column="32" selection-start="1601" selection-end="1601" vertical-scroll-proportion="-0.446281">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/GamePresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="22" column="50" selection-start="626" selection-end="626" vertical-scroll-proportion="0.02255639">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GameResponders/NewGameResponder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="9" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0">
+        <state line="84" column="56" selection-start="2804" selection-end="2804" vertical-scroll-proportion="1.5037594">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Driver.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/Driver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="18" selection-start="1238" selection-end="1238" vertical-scroll-proportion="0.0">
+        <state line="9" column="13" selection-start="228" selection-end="228" vertical-scroll-proportion="0.09774436">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#751#766#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/org/andrewzures/middleware/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="352" selection-end="352" vertical-scroll-proportion="0.27121">
+        <state line="8" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="0.30075186">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameResponders/MoveResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GameResponders/IntroResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="62" selection-start="371" selection-end="371" vertical-scroll-proportion="0.21791768">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1022,7 +1164,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>RVM: jruby-1.7.4</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1034,11 +1176,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test_server_stuff</last-edited>
+          <last-edited>java_server</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1058,7 +1201,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>jruby-complete-1.7.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

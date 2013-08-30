@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ruby_ttt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ruby_ttt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
